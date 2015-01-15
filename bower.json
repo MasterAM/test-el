@@ -1,0 +1,17 @@
+{
+  "name": "test-el",
+  "version": "0.0.0",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "test-el.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0",
+    "core-icon": "polymer/core-icon#~0.5.2"
+  }
+}
